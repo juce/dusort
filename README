@@ -1,0 +1,5 @@
+Utility to sort the output of "du -sh" command by size.
+
+Usage:
+
+    du -sh * | dusort
